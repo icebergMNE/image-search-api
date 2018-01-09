@@ -1,0 +1,24 @@
+{
+  "name": "image-search-api",
+  "version": "1.0.0",
+  "description": "Image Search Abstraction Layer - free code camp back-end project using bing search api",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/icebergMNE/image-search-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/icebergMNE/image-search-api/issues"
+  },
+  "homepage": "https://github.com/icebergMNE/image-search-api#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "nodemon": "^1.14.10"
+  }
+}
